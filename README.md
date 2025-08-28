@@ -1,4 +1,4 @@
-# Houzeo Assignment
+# Landing Page
 
 ## Tech Used
 - HTML
